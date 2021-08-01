@@ -1,0 +1,8 @@
+mainTitle = "Details";
+builtInContactButtonTitle = "Built-in Contact Info";
+sectionMainInfo = "Main info";
+sectionProjects = "Projects";
+fullNameTitle = "Full Name";
+positionTitle = "Position";
+emailTitle = "Email";
+phoneNumberTitle = "Phone number";

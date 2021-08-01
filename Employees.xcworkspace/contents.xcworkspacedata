@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:EmployeesCore">
+   </FileRef>
+   <FileRef
+      location = "group:EmployeesList">
+   </FileRef>
+   <FileRef
+      location = "group:EmployeesDetails">
+   </FileRef>
+   <FileRef
+      location = "group:EmployeesApp/EmployeesApp.xcodeproj">
+   </FileRef>
+</Workspace>

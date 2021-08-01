@@ -1,0 +1,3 @@
+mainTitle = "Employees";
+genericError = "Something went wrong, please try again later.";
+okayButtonTitle = "OK";
