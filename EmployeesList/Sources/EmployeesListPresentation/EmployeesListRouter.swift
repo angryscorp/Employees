@@ -4,7 +4,7 @@ import UIKit
 
 public final class EmployeesListRouter: EmployeesListRouting {
     
-    private let viewController: UIViewController & EmployeesListViewable
+    private weak var viewController: (UIViewController & EmployeesListViewable)!
     private let setRootViewController: (UIViewController) -> Void
     private let makeEmployeesDetails: (UIViewController, Employee) -> Void
     

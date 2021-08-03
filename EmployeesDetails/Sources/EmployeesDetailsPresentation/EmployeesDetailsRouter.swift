@@ -3,7 +3,7 @@ import EmployeesDetailsInteracting
 
 public final class EmployeesDetailsRouter: EmployeesDetailsRouting {
     
-    private let viewController: UIViewController & EmployeesDetailsViewable
+    private weak var viewController: (UIViewController & EmployeesDetailsViewable)!
     private let rootViewController: UIViewController
     
     public init(
